@@ -21,3 +21,4 @@
 ---
 
 ## Beurtenlog
+1. Jelle S: ik raad de letter **e**
