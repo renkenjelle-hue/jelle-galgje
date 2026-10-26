@@ -23,3 +23,4 @@
 ## Beurtenlog
 1. Jelle S: ik raad de letter **e**
 goed
+2. Jelle S: ik raad de letter **l**
