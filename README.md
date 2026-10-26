@@ -11,7 +11,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| . | . | . | . | e | . | . | e | . | . | . | . |
+| . | . | . | . | e | . | l | e | . | . | . | . |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
@@ -24,3 +24,4 @@
 1. Jelle S: ik raad de letter **e**
 goed
 2. Jelle S: ik raad de letter **l**
+goed
